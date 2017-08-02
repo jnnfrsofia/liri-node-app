@@ -12,9 +12,12 @@ To install the application, first clone this repository:
 
 To install these npm packages run these commands one at a time.
 
-* npm install twitter
-* npm install spotify
-* npm install request
+	npm install twitter
+
+	npm install spotify
+
+	npm install request
+
 
 ## Run
 
@@ -22,7 +25,10 @@ Commands to run LIRI
 
 Type any of these commands into your command line to retrieve data:
 
-* node liri.js my-tweets
-* node liri.js spotify-this-song (song name here)
-* node liri.js movie-this (movie name here)
-* node liri.js do-what-it-says 
+	node liri.js my-tweets
+
+	node liri.js spotify-this-song (song name here)
+
+	node liri.js movie-this (movie name here)
+
+	node liri.js do-what-it-says
